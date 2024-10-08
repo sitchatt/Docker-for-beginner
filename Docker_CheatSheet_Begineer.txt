@@ -1,0 +1,13 @@
+Here are 10 essential Docker commands every beginner in DevOps should know:
+
+1.  docker --version : Check the installed Docker version.
+2.  docker pull [image] : Pull an image from Docker Hub.
+3.  docker images : List all available Docker images.
+4.  docker build -t [name] . : Build an image from a Dockerfile.
+4.  docker run [image] : Run a container from an image.
+5.  docker ps : List running containers.
+6.  docker stop [container] : Stop a running container.
+7.  docker rm [container] : Remove a stopped container.
+8.  docker rmi [image] : Remove an image.
+9.  docker build -t [name] . : Build an image from a Dockerfile.
+10. docker exec -it [container_id] bash: Run a command inside a running container.
